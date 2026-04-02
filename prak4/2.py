@@ -1,0 +1,11 @@
+import math
+print('Введите x1:')
+x1 = float(input())
+print('Введите y1:')
+y1 = float(input())
+print('Введите х2:')
+x2 = float(input())
+print('Введите y2:')
+y2 = float(input())
+p = math.sqrt((x1 - x2) ** 2 + (y1 - y2) ** 2)
+print(p)
