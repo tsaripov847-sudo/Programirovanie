@@ -1,0 +1,1 @@
+weight, height = map(float, input("Введите свой рост(M) и вес(кг): ").split())
