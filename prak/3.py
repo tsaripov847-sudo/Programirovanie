@@ -1,7 +1,0 @@
-month = int (input('Введите номер месяца'))
-if month == 2:
-    print('В этом месяце 28 дней')
-elif month == 4 or month == 6 or month == 9 or month == 11:
-    print('В этом месяце 30 дней')
-else:
-    print('В этом месяце 31 день')

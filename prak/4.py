@@ -1,9 +1,0 @@
-weight = int(input('Введите вес боксера'))
-if weight < 60:
-    print('Легкий вес')
-elif weight < 64:
-    print('Первый полусредний вес')
-elif weight < 69:
-    print('Полусредний вес')
-else:
-    print('Не проходит не в одну из категорий')
